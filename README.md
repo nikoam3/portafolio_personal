@@ -28,7 +28,7 @@
 ## Contacto
 - Si tenés alguna pregunta o sugerencia, contactame a través de:
 - **email**: amaya.niko@gmail.com
-- **LinkedIn**: https://linkedin.com/in/tu-usuario
+- **LinkedIn**: www.linkedin.com/in/nicolás-agustín-amaya-161a34165
 - Formulario de contacto: Usa la sección de Contacto en el sitio.
 
 # ¡Gracias por visitar mi portafolio!
