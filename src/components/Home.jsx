@@ -284,8 +284,8 @@ function Home() {
                 <footer className="bg-gray-900 text-white p-4 text-center">
                     <p>&copy; 2025 Nicolás Agustín Amaya. Hecho con React y Tailwind CSS.</p>
                     <div className="flex justify-center space-x-4 mt-2">
-                        <a href="https://github.com/tu-usuario" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">GitHub</a>
-                        <a href="https://linkedin.com/in/tu-usuario" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">LinkedIn</a>
+                        <a href="https://github.com/nikoam3" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">GitHub</a>
+                        <a href="https://www.linkedin.com/in/nicolás-agustín-amaya-161a34165" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">LinkedIn</a>
                     </div>
                 </footer>
             </div>
